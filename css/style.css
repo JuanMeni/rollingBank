@@ -1,0 +1,26 @@
+.tituloNav{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.banner{
+    height: 500px;
+    object-fit: cover;
+}
+
+.sobreTitulo{
+    font-family: 'Tajawal', sans-serif;
+}
+.tituloApp{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.tituloPrecio{
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+@media (max-width:395px) {
+    .imgSlider{
+        height: 200px;
+        object-fit: cover;
+    }
+}
